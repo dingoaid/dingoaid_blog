@@ -16,8 +16,24 @@ I will be uploading my personal blog here, recording all of my coding journey :-
 <br/>
 <br/>
 <br/>
-[Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+By the way, the template, theme, and pretty much everything of this Blog comes from the template made by Minimal Mistakes:
+
+[Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
